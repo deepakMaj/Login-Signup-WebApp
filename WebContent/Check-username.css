@@ -1,0 +1,52 @@
+*{
+	background-color : blue;
+}
+div.container{
+	background-color : skyblue;
+	height : 240px;
+	width : 440px;
+	text-align : center;
+	margin : 200px 500px 100px 500px;
+	border-radius : 8px;
+}
+input[type=text]{
+	margin-top : 25px;
+	padding-left : 10px;
+	border-radius : 5px;
+	padding : 20px 15px 20x 15px;
+	height : 30px;
+	background-color : LightGrey;
+	color : black;
+	font-family : sans-serif;
+	margin-bottom : 22px;
+	border : none;
+	text-align : left;
+	font-size : 16px;
+}
+label{
+	color : black;
+	font-family : courier;
+	font-size : 20px;
+	font-weight : bold;
+	background-color : skyblue;
+}
+input[type=submit]{
+	background-color : black;
+	color : white;
+	font-size : 16px;
+	border-radius : 5px;
+	margin-bottom : 25px;
+	border : none;
+	padding : 8px 15px 8px 15px;
+}
+p{
+	background-color : skyblue;
+	color : red;
+	font-size : 17px;
+	margin-bottom : 25px;
+}
+a{
+	color : black;
+	background-color : skyblue;
+	font-size : 17px;
+}

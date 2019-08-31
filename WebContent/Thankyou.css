@@ -1,0 +1,31 @@
+* {
+	background-color: coral;
+}
+
+marquee {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+h2 {
+	font-size: 90px;
+	margin: 150px 410px 80px 410px;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+
+input[type=submit] {
+	font-size: 17px;
+	border: none;
+	position: absolute;
+	margin: 100px 550px 100px 620px;
+	padding: 10px 10px 10px 10px;
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+	background-color: black;
+	cursor: pointer;
+}

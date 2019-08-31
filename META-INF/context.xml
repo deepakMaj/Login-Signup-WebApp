@@ -1,0 +1,9 @@
+<!DOCTYPE xml>
+<Context>
+	<Resource name="jdbc/login-webapp" auth="Container"
+		type="javax.sql.DataSource"
+		factory="org.apache.tomcat.jdbc.pool.DataSourceFactory" maxTotal="20"
+		minIdle="10" maxWait="10000" username="root" password="deepak708745"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://127.0.0.1:3306/login-webapp" />
+</Context>
